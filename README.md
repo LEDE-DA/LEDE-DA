@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LEDE-DA
-- 👀 I’m interested in data science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web Development projects
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me +2348081598604
 - 😄 Pronouns: He
 - ⚡ Fun fact: My fav quote "**No excuse for failure**"
