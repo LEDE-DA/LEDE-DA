@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LEDE-DA
-- 👀 I’m interested in Web development
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me +2348081598604
